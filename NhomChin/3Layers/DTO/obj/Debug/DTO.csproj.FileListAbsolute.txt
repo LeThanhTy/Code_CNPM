@@ -1,0 +1,6 @@
+D:\HỌC\VISUAL STUDIO\C#\3Layers\DTO\bin\Debug\DTO.dll
+D:\HỌC\VISUAL STUDIO\C#\3Layers\DTO\bin\Debug\DTO.pdb
+D:\HỌC\VISUAL STUDIO\C#\3Layers\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HỌC\VISUAL STUDIO\C#\3Layers\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HỌC\VISUAL STUDIO\C#\3Layers\DTO\obj\Debug\DTO.dll
+D:\HỌC\VISUAL STUDIO\C#\3Layers\DTO\obj\Debug\DTO.pdb
